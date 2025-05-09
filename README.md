@@ -1,5 +1,5 @@
 # Library CLI
 A command line interface app to simulate a library
 
-##Usage
+## Usage
 Run ruby `app.rb` in the terminal
