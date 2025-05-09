@@ -2,4 +2,4 @@
 A command line interface app to simulate a library
 
 ## Usage
-Run ruby `app.rb` in the terminal
+Run `ruby app.rb` in the terminal
